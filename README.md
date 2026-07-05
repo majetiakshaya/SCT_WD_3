@@ -12,4 +12,4 @@ CSS3 – Designed the responsive layout, styling, and interactive game elements.
 JavaScript (ES6) – Implemented the game logic, player vs. computer functionality, winner detection, draw detection, and restart feature.
 
 # Live Demo
-View Live Site(https://majetiakshaya.github.io/SCT_WD_3)
+[View Live Site](https://majetiakshaya.github.io/SCT_WD_3)
